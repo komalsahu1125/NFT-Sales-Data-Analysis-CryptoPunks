@@ -17,10 +17,9 @@ Each row in the dataset represents the sale of a CryptoPunk NFT and includes the
 - `eth_price`: Price of the NFT in ETH
 - `usd_price`: Price of the NFT in USD
 - `event_date`: Date of the transaction
-- `time`: Time of the transaction
-- `nft_id`: Unique identifier of the NFT
+- `token_id`: Unique identifier of the NFT
 - `transaction_hash`: Transaction ID on the blockchain
-- `nft_name`: The name of the NFT (e.g., "CryptoPunk #1139")
+- `name`: The name of the NFT (e.g., "CryptoPunk #1139")
 
 ---
 
@@ -73,7 +72,7 @@ The following prompts were used to guide the analysis:
 
 ## 🛠 Tools & Technologies
 
-- SQL (PostgreSQL or MySQL)
+- SQL ( MySQL)
 - Optional: Python, Pandas, Matplotlib, or any BI tool for visualizations
 
 ---
@@ -87,6 +86,4 @@ The following prompts were used to guide the analysis:
 - Adjusted fair market value calculation per day
 
 ---
-
-## 🧩 Project Structure
 
