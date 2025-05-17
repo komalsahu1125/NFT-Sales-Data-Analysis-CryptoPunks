@@ -86,4 +86,9 @@ The following prompts were used to guide the analysis:
 - Adjusted fair market value calculation per day
 
 ---
+## 📬 Contact
 
+For questions or feedback related to the project, please contact:
+
+- **Name**: [Komal Sahu]
+- **Email**: [komal.sahu2511@gmail.com]
