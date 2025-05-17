@@ -76,19 +76,9 @@ The following prompts were used to guide the analysis:
 - Optional: Python, Pandas, Matplotlib, or any BI tool for visualizations
 
 ---
-
-## 📈 Expected Insights
-
-- Identification of high-value NFT assets
-- Buyer behavior and wallet-level analysis
-- Daily/weekly/monthly transaction trends
-- Detection of pricing outliers and trend shifts
-- Adjusted fair market value calculation per day
-
----
 ## 📬 Contact
 
 For questions or feedback related to the project, please contact:
 
-- **Name**: [Komal Sahu]
-- **Email**: [komal.sahu2511@gmail.com]
+- **Name**: Komal Sahu
+- **Email**: komal.sahu2511@gmail.com
